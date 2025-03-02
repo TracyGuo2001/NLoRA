@@ -62,4 +62,10 @@ If you want to revert to the standard **LoRA**, simply set `init_lora_weights = 
 
 ## Citation
 ```
+@article{guo2025nlora,
+  title={NLoRA: Nystr$\backslash$" om-Initiated Low-Rank Adaptation for Large Language Models},
+  author={Guo, Chenlu and Wu, Yuan and Chang, Yi},
+  journal={arXiv preprint arXiv:2502.14482},
+  year={2025}
+}
 ```
